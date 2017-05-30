@@ -22,6 +22,6 @@
 ---
 
 1. [Start Boostrap](https://startbootstrap.com/)
-⋅⋅1.[Bootstrap portfolio](https://blackrockdigital.github.io/startbootstrap-creative/)
+..1.[Bootstrap portfolio](https://blackrockdigital.github.io/startbootstrap-creative/)
 2. [Bootstrap Gallery](https://mobirise.com/bootstrap-gallery/)
 3. 
